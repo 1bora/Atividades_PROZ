@@ -1,2 +1,2 @@
-# Atividades---PROZ
+# Atividades_PROZ
 Repositório para armazenamento de atividades.
